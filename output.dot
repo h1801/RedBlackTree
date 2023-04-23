@@ -1,0 +1,19 @@
+digraph BST {
+node [shape=circle, style=filled, color=white, fontname=Helvetica fontcolor=white]
+edge [fontname=Helvetica]
+node1[label = 3 color =white fillcolor=black style=filled ];
+node1 -> node2 ;
+node1 -> node3 ;
+node2[label = 1 color =white fillcolor=black style=filled ];
+node2 -> node4 ;
+node2 -> node5 ;
+node4[label = 0 color =white fillcolor=red style=filled ];
+node5[label = 2 color =white fillcolor=red style=filled ];
+node3[label = 5 color =white fillcolor=red style=filled ];
+node3 -> node6 ;
+node3 -> node7 ;
+node6[label = 4 color =white fillcolor=black style=filled ];
+node7[label = 6 color =white fillcolor=black style=filled ];
+node7 -> node8 ;
+node8[label = 7 color =white fillcolor=red style=filled ];
+}
