@@ -1,4 +1,9 @@
 # RedBlackTree
+## Commands to run 
+  javac RBTree.java
+  java RBTree
+ 
+## Presentation
 ![](https://github.com/h1801/RedBlackTree/blob/main/Presentation/Slide1.PNG)
 ![](https://github.com/h1801/RedBlackTree/blob/main/Presentation/Slide2.PNG)
 ![](https://github.com/h1801/RedBlackTree/blob/main/Presentation/Slide3.PNG)
